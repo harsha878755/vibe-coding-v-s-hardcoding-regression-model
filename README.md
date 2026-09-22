@@ -1,11 +1,9 @@
 # Vibe Coding vs. Hardcoding — A Statistical Analysis
 
-A mini project for **BAD702 (Statistical Machine Learning for Data Science)** comparing two software
-development approaches — **Vibe Coding** (AI/prompt-assisted programming) and **Hardcoding**
-(traditional manual programming) — using a full statistical pipeline: EDA, bootstrap resampling,
-hypothesis testing, multiple regression, and a generalized linear model (logistic regression).
+A mini project for comparing two software development approaches — **Vibe Coding** (AI/prompt-assisted programming) and **Hardcoding**
+(traditional manual programming) — using a full statistical pipeline: EDA, bootstrap resampling,hypothesis testing, multiple regression, and a generalized linear model (logistic regression).
 
-> 📌 The dataset is **simulated** (220 coding-task records) since no public benchmark dataset yet
+> The dataset is **simulated** (220 coding-task records) since no public benchmark dataset yet
 > exists comparing these two approaches. Every statistic and figure in the report is computed live
 > from `data/vibe_coding_vs_hardcoding.csv` — nothing is hard-coded or fabricated after the fact.
 
