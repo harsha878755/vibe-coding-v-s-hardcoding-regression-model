@@ -72,9 +72,7 @@ python analysis.py
 
 ## Author
 
-**Harsha M** — 1MP23AD013
-Dept. of Artificial Intelligence and Data Science, BGS College of Engineering and Technology
-Guide: Ms. Sindhu G, Assistant Professor
+**Harsha M**
 
 ## License
 
