@@ -1,6 +1,6 @@
 # Vibe Coding vs. Hardcoding — A Statistical Analysis
 
-A mini project for **BAD702 (Statistical Machine Learning for Data Science)** comparing two software
+A mini project for comparing two software
 development approaches — **Vibe Coding** (AI/prompt-assisted programming) and **Hardcoding**
 (traditional manual programming) — using a full statistical pipeline: EDA, bootstrap resampling,
 hypothesis testing, multiple regression, and a generalized linear model (logistic regression).
